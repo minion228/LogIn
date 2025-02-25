@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|c:\\users\\yulia\\desktop\\\u0441#\\practic2\\practic2\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|c:\\users\\yulia\\desktop\\\u0441#\\practic2\\practic2\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\logic\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\logic\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\logic\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\logic\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|c:\\users\\yulia\\desktop\\\u0441#\\practic2\\practic2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\practic2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E364D61-62A4-45D5-BC38-5C1013F5317F}|Practic2\\Practic2.csproj|solutionrelative:practic2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\SignIn.xaml.cs",
+              "RelativeDocumentMoniker": "Practic2\\SignIn.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\SignIn.xaml.cs",
+              "RelativeToolTip": "Practic2\\SignIn.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:28:16.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\SignIn.xaml",
+              "RelativeDocumentMoniker": "Practic2\\SignIn.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\SignIn.xaml",
+              "RelativeToolTip": "Practic2\\SignIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-25T14:26:47.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "Practic2\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Profile.xaml.cs",
+              "RelativeToolTip": "Practic2\\Profile.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAMwCgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T15:21:11.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Profile.xaml",
+              "RelativeDocumentMoniker": "Practic2\\Profile.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Profile.xaml",
+              "RelativeToolTip": "Practic2\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T15:15:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Practic2\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Classes\\User.cs",
+              "RelativeToolTip": "Practic2\\Classes\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:14:55.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Logic\\Product.cs",
+              "RelativeDocumentMoniker": "Practic2\\Logic\\Product.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Logic\\Product.cs",
+              "RelativeToolTip": "Practic2\\Logic\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:08:31.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Logic\\Auth.cs",
+              "RelativeDocumentMoniker": "Practic2\\Logic\\Auth.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Logic\\Auth.cs",
+              "RelativeToolTip": "Practic2\\Logic\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:08:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "Practic2\\Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "Practic2\\Interfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:04:44.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "Practic2\\Interfaces\\IAuth.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\Interfaces\\IAuth.cs",
+              "RelativeToolTip": "Practic2\\Interfaces\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:04:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Practic2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\MainWindow.xaml",
+              "RelativeToolTip": "Practic2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-16T13:59:32.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Practic2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\Practic2\\Practic2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Practic2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAhwCsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:59:32.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
