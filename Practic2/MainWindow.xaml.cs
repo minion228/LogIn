@@ -2,6 +2,7 @@
 using Practic2.Logic;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -25,6 +26,7 @@ namespace Practic2
         {
             InitializeComponent();
             _auth = new Auth();
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -51,5 +53,7 @@ namespace Practic2
             signIn.Show();
             this.Close();
         }
+        
+
     }
 }
